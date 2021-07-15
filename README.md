@@ -20,4 +20,4 @@ Perform K-fold cross validation procedure to tune penalty parameter in Ridge Reg
 
 *Disclaimer*: 
 
-This is part of the course assignments for STA314 (Statistical Methods for Machine Learning) fall 2020 term at the University of Toronto (UofT).
+This is part of the course assignments for STA414 (Statistical Methods for Machine Learning II) winter 2021 term at the University of Toronto (UofT).
